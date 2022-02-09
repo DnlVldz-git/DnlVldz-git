@@ -1,4 +1,27 @@
-### Hi there 👋
+## ¿Qué tal? 👋
+
+### 🔭 Actualmente hago prácticas en Karimnot. Inc.
+
+### ⚡ Trabajos relevantes:
+
+#### [Chat en línea con Java](https://github.com/DnlVldz-git/Chat)
+
+### 🤠 Métodos de ordenamiento en Java:
+
+#### [Quick Sort](https://github.com/DnlVldz-git/quick_sort)
+
+#### [Shell](https://github.com/DnlVldz-git/shell)
+
+#### [Radix](https://github.com/DnlVldz-git/radix)
+
+### 🌳 Árboles binarios en Java:
+
+#### [Árbol Binario Rojo-Negro](https://github.com/DnlVldz-git/arbol_rojo_negro)
+
+#### [Árbol Binario](https://github.com/DnlVldz-git/arbol_binario)
+
+
+
 
 <!--
 **DnlVldz-git/DnlVldz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
