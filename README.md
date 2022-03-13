@@ -12,6 +12,11 @@ Página web Mihojahorli: [Mi Hoja Horli](https://mihojahorli.com)
 
 #### [Chat en línea con Java](https://github.com/DnlVldz-git/Chat)
 
+#### [Juego de typing "CatRacer" en C#](https://github.com/DnlVldz-git/CatRacerPOOVisual)
+
+#### [Página web "Subify" con React](https://github.com/DnlVldz-git/Subify_react)
+
+
 ### 🤠 Métodos de ordenamiento en Java:
 
 #### [Quick Sort](https://github.com/DnlVldz-git/quick_sort)
