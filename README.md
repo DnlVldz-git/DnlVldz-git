@@ -26,6 +26,7 @@ Página web de México Ampárame: [México Ampárame](https://www.mexicoamparame
 
 
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dnlVldz-git&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <!--
 **DnlVldz-git/DnlVldz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
