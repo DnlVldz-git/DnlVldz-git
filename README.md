@@ -1,6 +1,6 @@
 ## ¿Qué tal? 👋
 
-### 🔭 Actualmente hago prácticas en Karimnot. Inc.}
+### 🔭 Actualmente hago prácticas en Karimnot. Inc.
 
 ### 🔥 Contribuciones a proyectos:
 
