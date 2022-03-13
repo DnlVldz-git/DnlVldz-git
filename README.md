@@ -35,7 +35,7 @@ Página web Mihojahorli: [Mi Hoja Horli](https://mihojahorli.com)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dnlVldz-git&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
-<a href="https://github.com/DnlVldz-git/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnlVldz-git&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/DnlVldz-git/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnlVldz-git&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
 <!--
