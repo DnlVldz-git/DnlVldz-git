@@ -37,6 +37,7 @@ Página web Mihojahorli: [Mi Hoja Horli](https://mihojahorli.com)
 
 <a href="https://github.com/DnlVldz-git/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnlVldz-git&layout=compact&theme=buefy&hide_border=true" /></a> 
 
+[![Grafica](https://activity-graph.herokuapp.com/graph?username=DnlVldz-git&custom_title=Last%2031%20Days&theme=github&area=true&hide_border=true)]()
 
 <!--
 **DnlVldz-git/DnlVldz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
