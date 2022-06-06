@@ -1,6 +1,8 @@
 ## ¿Qué tal? 👋
 
-### 🔭 Actualmente hago prácticas en Karimnot. Inc.
+### 🧭 Actualmente trabajo como Front-End Developer en Azit.
+
+### 🔭 También hago prácticas profesionales en Karimnot. Inc.
 
 ### 🔥 Contribuciones a proyectos:
 
@@ -8,7 +10,11 @@ Página web de México Ampárame: [México Ampárame](https://www.mexicoamparame
 
 Página web Mihojahorli: [Mi Hoja Horli](https://mihojahorli.com)
 
+Empower, diario clínico: [Empower](https://empower-18f9d.web.app)
+ 
 ### ⚡ Trabajos relevantes:
+
+#### [Coffee4All, administración de cafetería con React y Express](https://coffee4all-cd9c9.web.app)
 
 #### [Chat en línea con Java](https://github.com/DnlVldz-git/Chat)
 
