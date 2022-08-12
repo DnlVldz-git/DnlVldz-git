@@ -1,6 +1,6 @@
 ## ¿Qué tal? 👋
 
-### 🧭 Actualmente trabajo como Front-End Developer en Azit.
+### 🧭 Front-End Developer en Azit Developers(Mayo 2022 - Agosto 2022).
 
 ### 🔭 También hago prácticas profesionales en Karimnot. Inc.
 
