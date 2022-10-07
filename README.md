@@ -1,8 +1,8 @@
 ## ¿Qué tal? 👋
 
-### 🧭 Front-End Developer con Vue 3 en Azit Developers (Mayo 2022 - Agosto 2022).
+### 🔭 Full-Stack developer en Karimnot. Inc.
 
-### 🔭 También hago prácticas profesionales en Karimnot. Inc.
+### 🧭 Front-End Developer con Vue 3 en Azit Developers (Mayo 2022 - Agosto 2022).
 
 ### 🔥 Contribuciones a proyectos:
 
