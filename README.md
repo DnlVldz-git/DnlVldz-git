@@ -1,29 +1,28 @@
-## ¿Qué tal? 👋
+## Hey! 👋
 
-### 🔭 Full-Stack developer en Karimnot. Inc.
+### ☁️ Salesforce Developer in QVEST (current)
 
-### 🧭 Front-End Developer con Vue 3 en Azit Developers (Mayo 2022 - Agosto 2022).
+### 🔭 Salesforce Developer / Full Stack Developer in Karimnot (August 2022 - Current)
 
-### 🔥 Contribuciones a proyectos:
+### 🧭 Front-End Developer with Vue 3 in Azit Developers (May 2022 - August 2022).
 
-Página web de México Ampárame: [México Ampárame](https://www.mexicoamparame.ac)
+### 🔥 Project contributions:
 
-Página web Mihojahorli: [Mi Hoja Horli](https://mihojahorli.com)
+México Ampárame Web Page: [México Ampárame](https://www.mexicoamparame.ac)
 
-Empower, diario clínico: [Empower](https://empower-18f9d.web.app)
+Mihojahorli Web Page: [Mi Hoja Horli](https://mihojahorli.com)
+
+Empower, clinic diary: [Empower](https://empower-18f9d.web.app)
  
-### ⚡ Trabajos relevantes:
+### ⚡ Relevant projects:
 
-#### [Coffee4All, administración de cafetería con React y Express](https://coffee4all-cd9c9.web.app)
+#### [Coffee4All, coffee shop administration with React and Express](https://coffee4all-cd9c9.web.app)
 
-#### [Chat en línea con Java](https://github.com/DnlVldz-git/Chat)
+#### [Online chat with Java](https://github.com/DnlVldz-git/Chat)
 
-#### [Juego de typing "CatRacer" en C#](https://github.com/DnlVldz-git/CatRacerPOOVisual)
+#### [Typing game "CatRacer" in C#](https://github.com/DnlVldz-git/CatRacerPOOVisual)
 
-#### [Página web "Subify" con React](https://github.com/DnlVldz-git/Subify_react)
-
-
-### 🤠 Métodos de ordenamiento en Java:
+### 🤠 Sorting methods in Java:
 
 #### [Quick Sort](https://github.com/DnlVldz-git/quick_sort)
 
@@ -31,7 +30,7 @@ Empower, diario clínico: [Empower](https://empower-18f9d.web.app)
 
 #### [Radix](https://github.com/DnlVldz-git/radix)
 
-### 🌳 Árboles binarios en Java:
+### 🌳 Binary Trees in Java:
 
 #### [Árbol Binario Rojo-Negro](https://github.com/DnlVldz-git/arbol_rojo_negro)
 
